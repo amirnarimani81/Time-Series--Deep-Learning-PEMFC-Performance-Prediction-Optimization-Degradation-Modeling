@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-Machine Learning-Driven PEMFC Performance Prediction, Optimization & Degradation Modeling
+Deep Learning PEMFC Performance Prediction, Optimization & Degradation Modeling
 </h1>
 
 <h3>
